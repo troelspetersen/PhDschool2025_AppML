@@ -3,4 +3,4 @@ They were made to accompany those [lecture notes](https://www.thphys.uni-heidelb
 
 If you want to work on bayesian neural networks, you should start with the bayesian regression tutorial, then the bayesian CNN for classification.
 
-If you want to work on a generative transformer model, you can try the ... tutorial.
+If you want to work on another type of model, you can try the generative-transformer tutorial.
